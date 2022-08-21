@@ -1,3 +1,2 @@
 esta es la historia de git
-vamos a modificarla un poco...
-hoy hablaremos de su vida y su obra
+manana hablaremos de su vida laboral
