@@ -1,3 +1,3 @@
 esta es la historia de git
 vamos a modificarla un poco...
-modificacion 1
+hoy hablaremos de su vida
